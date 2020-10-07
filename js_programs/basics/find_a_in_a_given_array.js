@@ -7,6 +7,7 @@ OUTPUT
 yes*/
 
 // program starts from here.
+// 
 
 const readLine=require('readline');
 const inp=readLine.createInterface({
